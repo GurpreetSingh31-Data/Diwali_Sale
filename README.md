@@ -58,10 +58,14 @@ Heatmaps to analyze correlations between variables.
 
 ## Technologies Used:  
 
-**Python:** Core programming language.
-**Pandas:** For data manipulation and cleaning.
-**Matplotlib & Seaborn:** For data visualization.
-**Jupyter Notebook:** For developing and presenting the analysis.
+**Python:** Core programming language.  
+
+**Pandas:** For data manipulation and cleaning.  
+
+**Matplotlib & Seaborn:** For data visualization.  
+
+**Jupyter Notebook:** For developing and presenting the analysis.  
+
 
 **Some key insights uncovered during the analysis include:**
 
