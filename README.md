@@ -67,7 +67,7 @@ Heatmaps to analyze correlations between variables.
 **Jupyter Notebook:** For developing and presenting the analysis.  
 
 
-**Some key insights uncovered during the analysis include:**
+## Some key insights uncovered during the analysis include:
 
 Significant trends in purchase behavior based on age, gender, and occupation.  
 
